@@ -42,7 +42,6 @@ public class Day2Cont {
             int last = 0;
             char ch = '@';
             String pwd = "";
-            boolean alreadyUsed = false;
             boolean valid = true;
 
             String[] temp = target.split("\\ |-|:");
